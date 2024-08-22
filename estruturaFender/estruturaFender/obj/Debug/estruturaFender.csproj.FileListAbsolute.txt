@@ -1,0 +1,11 @@
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\bin\Debug\estruturaFender.exe.config
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\bin\Debug\estruturaFender.exe
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\bin\Debug\estruturaFender.pdb
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.frm_login.resources
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.frm_principal.resources
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.frm_splash.resources
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.exe
+C:\Users\ds-etim-2\Desktop\DS\estruturaFender\estruturaFender\obj\Debug\estruturaFender.pdb
