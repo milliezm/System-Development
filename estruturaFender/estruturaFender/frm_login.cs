@@ -27,10 +27,14 @@ namespace estruturaFender
 
         private void btn_login_Click(object sender, EventArgs e)
         {
-            string email = "adminfender@gmail.com";
-            string senha = "fender123";
+            login l = new login();
+            l.setEmail(txt_email.Text);
+            l.setPassw(txt_senha.Text);
+            l.consultar_login();
 
-            if (txt_email.Text == email && txt_senha.Text == senha)
+            int valor = l.consultar_login();
+
+            if(valor == 1)
             {
                 frm_principal formulario = new frm_principal();
                 formulario.Show();
@@ -38,7 +42,7 @@ namespace estruturaFender
             }
             else
             {
-                MessageBox.Show("E-mail e senha Incorretos", "Fender Shop");
+                MessageBox.Show("Usuário e Senhas Invalidos", "Acesso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
     }
